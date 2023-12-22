@@ -18,7 +18,9 @@ In that case, we have a few options.
 - If we didn't leave the R&D stage yet, I can analyse other games to give a little push in, what I think is, the right direction (I'm not mistake-proof sadly enough...)
 - If we did leave the R&D however, I can slice the game up into main features that can be divided into smaller and easy to understand tasks for the team.
 # What can I use ?
-I have a fair bit of experience with Unity, and I've done one project with Unreal Engine 4 and I'm currently trying RPG Maker MV.
+I have a fair bit of experience with game engines like Unity or Unreal Engine 4 and I'm currently trying RPG Maker MV.
+
+As for other softwares, I can use Excel, Maya and photoshop.
   
   
 # My work :
