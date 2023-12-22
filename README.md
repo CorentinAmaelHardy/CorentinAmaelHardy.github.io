@@ -27,7 +27,7 @@ As for other softwares, I can use Excel, Maya and photoshop.
   
 - Worked on an unreleased school project mobile game "Propr&Net" in collaboration with the Trans-musicale festival as a game designer and 3C programmer. Propr&Net was a Beat them up where the player had to scream at people who were littering at the festival.
     
-- Worked on the school project [Vorboten Reich](https://github.com/ChevalierAlexis/Verboten-Reich) as a narrative designer and game designer. It was a walking simulator, where a veterant decided to move away from his old city,who was left in ruin, to end up in a place that is much, much worse.
+- Worked on the school project [Vorboten Reich](https://github.com/ChevalierAlexis/Verboten-Reich) as a narrative designer and game designer. It was a walking simulator, where a veterant decided to move away from his old city, who was left in ruin, to end up in a place that is much, much worse.
     
 - Working on the school project "Crops Warriors" as a game designer, feature designer and level designer. You can find the [Instagram page for the project](https://www.instagram.com/cropswarriors/) here.
     
