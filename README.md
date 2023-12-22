@@ -32,4 +32,15 @@ As for other softwares, I can use Excel, Maya and photoshop.
 - Working on the school project "Crops Warriors" as a game designer, feature designer and level designer. You can find the [Instagram page for the project](https://www.instagram.com/cropswarriors/) here.
     
 - Working on a TTRPG "The Great Lands". It's is divided in two playable eras, one is Medieval Fantasy, while the other is, even if based in the same world, in a WW1 like setting. It's main focuses are player freedom and to see how the players discover hidden lore.
-  
+
+
+  # What do I like outside my work ?
+
+
+  # What are my references ?
+     ## Books
+     ## 
+
+  # Game analyses :
+
+  So yeah, if you want to see my opinions on a few games, go right under there !
