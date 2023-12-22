@@ -3,7 +3,7 @@
 # Good morning/afternoon/evening !
 Thank you for checking my website.
 ## Who am I ?
-I am **Corentin Hardy**, a junior Game Designer and Level Designer whois currently studying at [Rennes's ESMA school](https://www.google.fr/maps/place/ESMA+Rennes,+%C3%A9cole+3D/@48.109497,-1.6511699,17z/data=!3m1!4b1!4m6!3m5!1s0x480edf8275e1186b:0xa5bfd84219ae6de9!8m2!3d48.109497!4d-1.648595!16s%2Fg%2F11t__vl34q?entry=ttu).
+I am **Corentin Hardy**, a junior Game Designer and Level Designer who is currently studying at [Rennes's ESMA school](https://www.google.fr/maps/place/ESMA+Rennes,+%C3%A9cole+3D/@48.109497,-1.6511699,17z/data=!3m1!4b1!4m6!3m5!1s0x480edf8275e1186b:0xa5bfd84219ae6de9!8m2!3d48.109497!4d-1.648595!16s%2Fg%2F11t__vl34q?entry=ttu).
   
 # How do I work, exactly ?
   
@@ -25,7 +25,7 @@ I have a fair bit of experience with Unity, and I've done one project with Unrea
   
 - Worked on an unreleased school project mobile game "Propr&Net" in collaboration with the Trans-musicale festival as a game designer and 3C programmer. Propr&Net was a Beat them up where the player had to scream at people who are littering at the festival.
     
-- Worked on the school project [Vorbotten Reich](https://github.com/ChevalierAlexis/Verboten-Reich) as a narrative designer and game designer. It was a walking simulator, where a veterant decided to move away from his old city,who was left in ruin, to end up in a place that is much, much worse.
+- Worked on the school project [Vorboten Reich](https://github.com/ChevalierAlexis/Verboten-Reich) as a narrative designer and game designer. It was a walking simulator, where a veterant decided to move away from his old city,who was left in ruin, to end up in a place that is much, much worse.
     
 - Working on the school project "Crops Warriors" as a game designer, feature designer and level designer. You can find the [Instagram page for the project](https://www.instagram.com/cropswarriors/) here.
     
